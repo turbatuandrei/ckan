@@ -30,7 +30,7 @@ passlib==1.7.3            # via -r requirements.in
 pathtools==0.1.2          # via watchdog
 pbr==5.5.1                # via sqlalchemy-migrate
 polib==1.0.7              # via -r requirements.in
-psycopg2==2.8.2           # via -r requirements.in
+psycopg2           # via -r requirements.in
 pyjwt==1.7.1              # via -r requirements.in
 pysolr==3.6.0             # via -r requirements.in
 python-dateutil==2.8.1    # via -r requirements.in, alembic, feedgen
