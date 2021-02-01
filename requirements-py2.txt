@@ -36,7 +36,7 @@ pastescript==2.0.2
 pathtools==0.1.2          # via watchdog
 pbr==5.5.1                # via sqlalchemy-migrate
 polib==1.0.7
-psycopg2==2.8.2
+#psycopg2==2.8.2
 pygments==2.5.2           # via weberror
 pyjwt==1.7.1
 pylons==0.9.7
